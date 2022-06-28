@@ -1,0 +1,24 @@
+.heading4
+{
+    font-size: 80px !important;
+    padding-top: 300px;
+    color:black;
+}
+.heading5
+{
+    font-size: 30px;
+    color:black;
+}
+.button1{
+    width:250px;
+    height:60px;
+    background-color: brown !important;
+    text-decoration: none !important;
+}
+.button1 :hover{
+    color: white !important;
+}
+.Link1
+{
+    text-decoration: none !important;
+}

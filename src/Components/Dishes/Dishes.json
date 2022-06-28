@@ -1,0 +1,233 @@
+{
+    "Dishes":[
+        {
+            "Dish_id":"I01",
+            "Dish_Name":"~ Non-Veg ~",
+            "Dish_img":"../../../../images/non-veg.jpg",
+            "category":[
+                {
+                   "cat_id":"CO1",
+                   "cat_name":"Kebabs",
+                   "img1":"../../../../images/kebabs.jpg",
+                   "Desc":"When it comes to non-vegetarian street food, there is nothing more popular than kebabs. Served fresh off the grill, kebabs are eaten with bread, onions, and a spicy mint chutney",
+                   "Price":"Rs. 250"
+                },
+                {
+                    "cat_id":"CO2",
+                   "cat_name":"Chicken Ghee Roast",
+                   "img1":"../../../../images/chickengheeroast.jpg",
+                   "Desc":"A classic Mangalorean delicacy that is also quite popular in Bengaluru is the fiery red and spicy chicken preparation roasted in Clarified Butter (ghee). This tangy and rich recipe is an evergreen dish and always in demand.",
+                   "Price":"Rs. 210"
+                },
+                {
+                    "cat_id":"CO3",
+                   "cat_name":"Chicken Biryani",
+                   "img1":"../../../../images/biryani.jpg",
+                   "Desc":"If you are a true Bangalorean then you would know that Bangalore food is incomplete without the mention of biryani in it. People in Bangalore are die-hard fans of biryani. You can easily find a large variety of Biryanis in Bengaluru.",
+                   "Price":"Rs. 220"
+                },
+                {
+                    "cat_id":"C04",
+                    "cat_name":"Shorshe Ilish",
+                    "img1":"../../../../images/hilsafish.jpg",
+                    "Desc":"Bengalis take their fish seriously and when it comes to the classic Ilish there's nothing more serious and close to their heart than this mustard-based Hilsa delicacy, which is one of the many famous dishes of Kolkata. Available in abundance during the monsoon, Hilsa is an integral part of the culturally rich Kolkata's heritage. Not only is it the staple diet, but also an indispensable legacy that marks every important occasion in a true blue Bengali's life.",
+                    "Price":"Rs. 250"
+                },
+                {
+                    "cat_id":"C05",
+                    "cat_name":"Kosha Mangsho",
+                    "img1":"../../../../images/muttoncurry.jpg",
+                    "Desc":"Another popular delicacy originating from Bengal is the heart Mutton curry or as the people of the land fondly call it- Kosha Mangsho. The spicy curry is prepared with mutton, a range of vegetables (usually including tomatoes and onions), and topped up with a variety of authentic spices to give it that flavorful zing and the quintessential rich brown color.",
+                    "Price":"Rs. 210"
+                },
+                {
+                    "cat_id":"C06",
+                    "cat_name":"Fish Chop",
+                    "img1":"../../../../images/fishchop.jpg",
+                    "Desc":"Popular street food of West Bengal, this deep-fried Bengali fish croquette is delicious and soft on the inside with a crispy breaded coating on the outside.",
+                    "Price":"Rs. 220"
+                },
+                {
+                    "cat_id":"C07",
+                    "cat_name":"Bheja Fry",
+                    "img1":"../../../../images/bhejafry.jpg",
+                    "Desc":"Bheja, or goat brain, sauteed with tomatoes, onions, turmeric, green chilies, spices and garnished with fresh coriander, is a staple for the die-hard carnivores of the city. Eaten with a roti (Indian bread) or pao, this melt-in-the-mouth dish has a rich Muslim heritage.",
+                    "Price":"Rs. 220"
+                },
+                {
+                    "cat_id":"C08",
+                    "cat_name":"Butter Garlic Crab ",
+                    "img1":"../../../../images/buttergarliccrab.jpg",
+                    "Desc":"A delicious seafood preparation wherein a big crab is drowned in tons of butter garlic sauce that seeps into every nook and cranny and coats every morsel of the flesh. Crack open the crab and take a bite. You'll know immediately that sweet crabmeat and butter with a twist of garlic is a combination made by gods. ",
+                    "Price":"Rs. 210"
+                },
+                {
+                    "cat_id":"C09",
+                    "cat_name":"Butter Chicken ",
+                    "img1":"../../../../images/butterchicken.jpg",
+                    "Desc":"Originated from the kitchens of Moti Mahal & Daryaganj in the 1950s, Butter Chicken is the most Delhi thing that you can ever eat. And, every non-vegetarian, who has lived in North India and tasted this 'Delhicacy' would vouch for the fact that the version of Butter Chicken that we get here in Delhi is simply unparalleled.",
+                    "Price":"Rs. 250"
+                }
+               
+
+            ]
+        },
+        {
+            "Dish_id":"I02",
+            "Dish_Name":"~ Veg ~",
+            "Dish_img":"../../../../images/veg.jpg",
+            "category":[
+                {
+                   "cat_id":"VO1",
+                   "cat_name":"AlooTikki",
+                   "img1":"../../../../images/alootikki.jpg",
+                   "Desc":"The real flavor of the Delhi street food lies in the chaat. The original chaat is a mixture of potato pieces, crispy fried bread, Dahi Bhalla, gram, and tangy-salty spices. The mixture is garnished with sour home-made Indian chilly and saunth (dried ginger and tamarind sauce), fresh green coriander leaves, and yogurt. However, there are several other popular variants now, including the one with an Aloo Tikki.",
+                   "Price":"Rs. 180"
+                },
+                {
+                    "cat_id":"VO2",
+                   "cat_name":"Momos",
+                   "img1":"../../../../images/momo.jpg",
+                   "Desc":"From the streets of Delhi to its high-end restaurants, momos are a special kind of South Asian dumplings and a staple in the national capital, which are a must-have and tastes best with its typical red spicy chutney.",
+                   "Price":"Rs. 150"
+                },
+                {
+                    "cat_id":"VO3",
+                   "cat_name":"Paranthas",
+                   "img1":"../../../../images/paratha.jpg",
+                   "Desc":"Fat Punjabi parathas laced with butter, scratch that, layered with butter is a specialty of the national capital. Stuffed parathas are the quintessential Delhi meal.",
+                   "Price":"Rs. 100"
+                },
+                {
+                    "cat_id":"VO4",
+                   "cat_name":"Dal Bukhara ",
+                   "img1":"../../../../images/dalbhukara.jpg",
+                   "Desc":"A rich and creamy slow-cooked black lentil simmered in a tomato-based sauce for hours. Truly a divine preparation, Dal Bukhara is a beacon of culinary excellence in Delhi and a must-try Mughlai delicacy. If you are ever craving this dish, better head to its place of inception- Bukhara’s located in ITC Maurya, New Delhi. Bukhara's robust dishes bring to light food that once ruled the roost in the North-West Frontier. Their dishes are laced with the perfect amount of smokiness and flavor. Everything on their menu is delightful but the legend here is their famed Dal Bukhara.",
+                   "Price":"Rs. 180"
+                },
+                {
+                    "cat_id":"VO5",
+                   "cat_name":"Chole Bhature ",
+                   "img1":"../../../../images/cholebhature.jpg",
+                   "Desc":"Rich, spicy and heavy, this is one of the most popular Punjabi dishes and is definitely on my list of top 10 must-try dishes in Delhi. Don’t be surprised if you find it on the breakfast menu of restaurants across the capital. You can find this lip-smacking dish at all food joints, be it local joints or restaurants, given its popularity with Delhiites",
+                   "Price":"Rs. 100"
+                },
+                {
+                    "cat_id":"VO6",
+                   "cat_name":"Akuri Toast",
+                   "img1":"../../../../images/akuritoast.jpg",
+                   "Desc":"Rated as one of the best Parsi dishes, every family has its own special way of making this breakfast meal. Though the choice of the ingredients is varied, Akuri is usually made by scrambling eggs with onions, tomatoes (or even raw mangoes when in season), red chili powder, green chilies, and topped with fresh coriander. Others add milk, jeera (cumin) powder, curry leaves, and even ginger and garlic paste.",
+                   "Price":"Rs. 100"
+                },
+                   {
+                    "cat_id":"VO7",
+                   "cat_name":"Berry Pulao",
+                   "img1":"../../../../images/berrypulao.jpg",
+                   "Desc":"Another culinary gem bestowed on Mumbai from the Parsi cuisine is this delicacy. The invention of Berry pulao took place in the busy Iranian cafes of old Bombay. This fragrant pilaf dish featuring Basmati Rice cooked with veggies and topped with fried onions and berries from Iran, is the piece de resistance on SodaBottleOpenerWala’s menu besides other popular Parsi dishes, which are now intricately woven in Mumbai’s culinary tapestry.",
+                   "Price":"Rs. 150"
+                },
+                   {
+                    "cat_id":"VO8",
+                   "cat_name":"Vada Pao",
+                   "img1":"../../../../images/vadapao.jpg",
+                   "Desc":"Not mentioning this staple on a list about Mumbai's popular delicacies would be a literal crime. Vada pav is one of the most humble street food of Mumbai, yet it is tasty and delicious. Wada pav basically has Batata vada which is sandwiched between two slices of a pav (dinner roll) topped with sweet chutney, green chutney, and dry garlic chutney",
+                   "Price":"Rs. 100"
+                },
+                   {
+                    "cat_id":"VO9",
+                   "cat_name":"Aloo Posto",
+                   "img1":"../../../../images/aloopostu.jpg",
+                   "Desc":"This is a classic Bengali delicacy that is mostly served as a side dish in almost every Bengali household. Sparing in its utilization of spices, this preparation relies on the flavors bring forth by potatoes, green chilies, and roasted poppy seeds. Featuring a nutty and rich flavor, Aloo Posto is usually cooked with mustard oil and served with Bengali flatbread",
+                   "Price":"Rs. 100"
+                },
+                   {
+                    "cat_id":"VO10",
+                   "cat_name":"Gobi Manchurian",
+                   "img1":"../../../../images/gobimanchurian.jpg",
+                   "Desc":"You read that right. These bite-sized snacks are surprisingly on the list of popular local food loved by the peeps of Bengaluru. In fact, their fan base is so large that you find this delicacy in almost every food joint's menu in Bengaluru. ",
+                   "Price":"Rs. 150"
+                }
+                  
+            ]
+        },
+        {
+            "Dish_id":"I03",
+            "Dish_Name":"~ Beverages ~",
+            "Dish_img":"../../../../images/beverage.jpg",
+            "category":[
+                {
+                   "cat_id":"BO1",
+                   "cat_name":"Craft Beer",
+                   "img1":"../../../../images/craftbeer.jpg",
+                   "Desc":"Bangalore is also home to some of the best microbreweries in the whole of India. From the traditional, light India Pale Ales to chocolatey stouts and everything in between, the beers brewed in this city are exceptional. With new microbreweries mushrooming every now and then, it's no surprise that Bengaluru’s is now known as India’s craft-beer capital. ",
+                   "Price":"Rs. 120"
+
+                },
+                {
+                    "cat_id":"BO2",
+                   "cat_name":"Lassi",
+                   "img1":"../../../../images/lassi.jpg",
+                   "Desc":"It is the most popular and traditional yogurt-based drink from the north-western region of Punjab in India. There are several varieties of lassi such as mango lassi, salted lassi, sweet lassi, bhang lassi, and chocolate lassi. It is a cooling, refreshing and healthy drink that is the best choice for summers.",
+                   "Price":"Rs. 100"
+                },
+                {
+                    "cat_id":"BO3",
+                   "cat_name":" Masala Chai",
+                   "img1":"../../../../images/masalachai.jpg",
+                   "Desc":"Tea is the most famous and favorite beverage in all parts of India. This spicy, melty, strong and earthy tea is made by mixing black tea with Indian aromatic spices and herbs. ",
+                   "Price":"Rs. 80"
+                },
+                {
+                    "cat_id":"B04",
+                    "cat_name":"Chaach",
+                    "img1":"../../../../images/chaanch.jpg",
+                    "Desc":" Chaach is a Rajasthani drink, best as natural thirst satisfiers. It is one of the smoothest, tastiest and relishing drinks. This buttermilk or slightly sour milk is best for hot seasons.",
+                    "Price":"Rs. 80"
+                },
+                {
+                    "cat_id":"B05",
+                    "cat_name":"Thandai",
+                    "img1":"../../../../images/thandai.jpg",
+                    "Desc":"A healthy and chilled Rajasthani beverage served to beat the height of summers. It is a mixture of creamy milk with dry fruits.",
+                    "Price":"Rs. 100"
+                },
+                {
+                    "cat_id":"B06",
+                    "cat_name":"Toddy",
+                    "img1":"../../../../images/toddy.jpg",
+                    "Desc":"If you are in Madhya Pradesh, you must try this awesome alcoholic drink, made up if various palm plants. It is white in color having 5% alcohol. Mechanical properties of fresh toddy have more health benefits.",
+                    "Price":"Rs. 120"
+                },
+                {
+                    "cat_id":"B07",
+                    "cat_name":"Kokum Sorbet",
+                    "img1":"../../../../images/kokumshorbet.jpg",
+                    "Desc":"Kokum Sorbet is a summer coolant and sweet drink very popular in Maharashtra. Consumption of Kokum sorbet helps to improve the digestion system and relax the body by cooling it down in hot summers. It is served or added with other dishes to give them a sour taste.",
+                    "Price":"Rs. 100"
+                },
+                {
+                    "cat_id":"B08",
+                    "cat_name":"Fenny",
+                    "img1":"../../../../images/feni.jpg",
+                    "Desc":"this local drink of Goa can be classified as country liquor. It is made either by using coconut or by cashew apple.",
+                    "Price":"Rs.80"
+                },
+                {
+                    "cat_id":"B09",
+                    "cat_name":"Falooda",
+                    "img1":"../../../../images/falooda.jpg",
+                    "Desc":"It is sweet and fragrancing beverage popular in Delhi, Haryana and Punjab regions in India. It is a mixture of many ingredients such as milk, jelly cubes, ice cream, rose syrup vermicelli, and ice cream. To make it more delicious and nutritious Basil seeds are also added to this. After an adventurous spicy meal, the consumption of falooda makes your digestion easy and cools your body. ",
+                    "Price":"Rs. 150"
+                },
+                {
+                    "cat_id":"B010",
+                    "cat_name":" Kahwa",
+                    "img1":"../../../../images/kahwa.jpg",
+                    "Desc":" Kahwa is the kind of chai, mostly consumed in Kashmir valley. It has a different but amazing mouth watering flavor. Mostly good for winters and also helps to heal a panic headache. You can also add lemon to it to make it more flavorsome.",
+                    "Price":"Rs. 100"
+                }
+            ]
+        }
+       
+    ]
+}

@@ -1,0 +1,38 @@
+.view
+{
+    color:white;
+    text-decoration: none !important;
+}
+
+
+Button
+{
+    font-size: 20px !important;
+    text-decoration: none !important;
+}
+Button :hover
+{
+    color:brown !important;
+}
+.menu
+{
+    top: 100px !important;
+    position: absolute;
+    /* left:300px !important; */
+}
+.Card1
+{
+    position: relative;
+    top:100px !important;
+
+}
+.heading
+{
+    font-size: 40px !important;
+}
+.Text
+{
+    font-size: 20px;
+    position:absolute;
+    top: 200px !important;
+}

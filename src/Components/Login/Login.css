@@ -1,0 +1,38 @@
+.LogInForm
+{
+    width:35%;
+    height:300px;
+    background-color: blueviolet;
+    margin-left: 33%;
+    border-color: darkblue;
+
+}
+.submit
+{
+    width: 80px;
+    height:40px;
+    color:brown;
+    border-radius: 10px;
+    text-decoration:none;
+    font-weight: bold;
+}
+.outer
+{
+    height:700px;
+    padding-top: 100px;
+    background-image: url(../../../public/images/neon.jpg);
+}
+.text5
+{
+    font-size: 50px;
+    padding-left: 1px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}  
+.icon_class
+{
+    width:50px;
+    padding-left: 600px;
+    
+}

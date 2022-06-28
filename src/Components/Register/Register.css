@@ -1,0 +1,51 @@
+.icon_class
+{
+    color:red !important;
+    padding-left: 500px;
+    padding-top:100px !important;
+    width:100px;
+    
+}
+.regForm
+{
+    background-color:darkorange !important;
+    width: 500px;
+    height:400px;
+    align-items: center;
+    left:300px;
+} 
+.container1
+{
+    width:1500px;
+    height: 700px;
+    padding-left: 350px;
+    background-image: url(../../../public/images/neon.jpg);
+
+    
+}
+.submit
+{
+    padding-left: 500px;
+    width: 180px!important;
+    color:white !important;
+}
+.text
+{
+    font-size: 50px;
+    width: 500px;
+    left:450px !important;
+    color:white;
+
+
+}
+.msg
+{
+   /* padding-top:150px !important; */
+    color: white;
+
+}
+.link4
+{
+    color: white;
+    text-decoration: none;
+}

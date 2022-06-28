@@ -1,0 +1,30 @@
+.card1
+{
+    width: 350px;
+    height:400px;
+     top: 50px !important;
+     left:40px !important;
+    
+     
+
+}
+.subcard
+{
+    background-color: white !important;   
+}
+.subBtn
+{
+    color: white;
+    text-decoration: none;
+}
+.subBtn :hover
+{
+    color:brown;
+}
+
+.menu_photo
+{
+    position:relative;
+    height:700px;
+    background-color: brown;
+}

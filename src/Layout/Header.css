@@ -1,0 +1,41 @@
+.nav-logo
+{
+    display:flex;
+    justify-content: flex-start;
+    align-items:center;
+    padding-left: 50px;
+    
+}
+.nav-logo img
+{
+width: 100px;
+}
+h1{
+    color:brown;
+    font-size:40px ;
+    font-family:fantasy;
+    font-weight:bold;
+}
+.navbar1 
+{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    padding-left: 5vh;
+    padding-right: 5vh;
+}
+.navbar1 :hover
+{
+    background-color: brown;
+color:white !important;
+}
+.Link1
+{
+    font-weight: 400;
+    font-size: 25px;
+    color:black;
+    font-family:fantasy ;
+}
+

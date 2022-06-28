@@ -1,0 +1,36 @@
+h2{
+    color: brown;
+}
+h3{
+    color:brown;
+}
+.reserve
+{
+    align-items: center !important;
+}
+.reserve1
+{
+    align-items: center !important;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 50px !important;
+}
+.reserve1 :hover{
+    color: brown !important;
+}
+input{
+    width: 700px !important;
+    margin-left: 300px !important;
+}
+textarea{
+    width: 700px !important;
+    margin-left: 300px !important;  
+}
+.background
+{
+    background-color: brown;
+}
+.text-center
+{
+    color: white !important;
+}
